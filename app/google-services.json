@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881549339237",
+    "project_id": "newsapplicationxidn",
+    "storage_bucket": "newsapplicationxidn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881549339237:android:e1c855a34d51f5c417748c",
+        "android_client_info": {
+          "package_name": "com.xhateya.idn.newsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881549339237-m1bavdbeqbj3541j4u7er9j9pg1eqi05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLxhzU-6xtwILHg91xbUBLfvAEigRR1pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881549339237-m1bavdbeqbj3541j4u7er9j9pg1eqi05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
